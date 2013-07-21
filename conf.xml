@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conf>
+    <xunit-test-verbose>true</xunit-test-verbose>
+    <!-- the execute process command needs this information to run as a DBA user -->
+    <dba-user>admin</dba-user>
+    <dba-password/>
+</conf>

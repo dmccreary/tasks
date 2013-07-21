@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task>
+    <id>1</id>
+    <task-name>Install Task App</task-name>
+    <task-description>Download and instal task application</task-description>
+    <task-type-code/>
+    <task-priority-code>high</task-priority-code>
+    <task-completion-status-code>new</task-completion-status-code>
+    <task-assigned-person>dan</task-assigned-person>
+    <starred-task-indicator>false</starred-task-indicator>
+    <depends-on/>
+    <resource/>
+    <tag/>
+    <created-datetime/>
+    <created-by/>
+    <last-modified-datetime/>
+    <last-modified-by/>
+</task>

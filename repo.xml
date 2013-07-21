@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta xmlns="http://exist-db.org/xquery/repo">
+    <description>A tool for managing project tasks and bug reports.</description>
+    <author>Dan McCreary</author>
+    <website>https://github.com/dmccreary/tasks</website>
+    <status>alpha</status>
+    <license>GNU-LGPL</license>
+    <copyright>true</copyright>
+    <type>application</type>
+    <target>tasks</target>
+    <prepare/>
+    <finish/>
+    <deployed>2013-07-08T22:05:08.269-05:00</deployed>
+</meta>
